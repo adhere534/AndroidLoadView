@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoadView</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="tab_names">
+        <item>首页</item>
+        <item>应用</item>
+        <item>游戏</item>
+        <item>专题</item>
+        <item>分类</item>
+        <item>排行</item>
+    </string-array>
+
+    <!--主界面四个Tab标题-->
+    <string-array name="TabTitle">
+        <item >首页</item>
+        <item >附近</item>
+        <item >发现</item>
+        <item >我</item>
+
+    </string-array>
+
+    <string name="tab_main">首页</string>
+    <string name="tab_near">附近</string>
+    <string name="tab_discover">发现</string>
+    <string name="tab_me">我</string>
+</resources>

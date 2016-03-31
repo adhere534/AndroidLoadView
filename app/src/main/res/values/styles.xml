@@ -1,0 +1,50 @@
+<resources>
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/indicatorcolor</item>
+        <item name="colorPrimaryDark">@color/indicatorcolor</item>
+        <item name="colorAccent">#FF6B6B</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="immersion_status">
+        <item name="android:clipToPadding">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+
+    <style name="Transparent" parent="@style/AppTheme">
+    　　
+    　　<item name="android:windowBackground">@color/transparent</item>
+    　　
+    　　<item name="android:windowIsTranslucent">true</item>
+    　　
+    　　<item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    　　
+    　　</style>
+    　　
+
+
+    <style name="CommTopBarStyle">
+        <item name="topTitleTextColor">@android:color/white</item>
+        <item name="topTitleTextSize">18</item>
+        <item name="android:layout_height">45dp</item>
+
+    </style>
+</resources>

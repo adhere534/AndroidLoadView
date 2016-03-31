@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <color  name="indicatorcolor">#1BC5F5</color>
+      <color  name="item_divider">#ffd7d7d7</color>
+      <color  name="txt_title">#ffffff</color>
+      <color name="menu_bg_press">#cecece</color>
+      <color name="menu_bg_normal">#f0f1f3</color>
+      <color name="detail_screen_bg">#adadad</color>
+      <color name="transparent">#00000000</color><!--透明色 -->
+</resources>

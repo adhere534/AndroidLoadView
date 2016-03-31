@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    >
+
+
+    <com.adhere.view.CommTopBarLayout
+        android:id="@+id/topbarLayout"
+        app:topLeftSrc="@mipmap/iv_return"
+        app:topRightSrc="@mipmap/search_icon"
+        android:layout_width="match_parent"
+        app:topTitle="请选择进入方式"
+        android:background="@color/indicatorcolor"
+        style="@style/CommTopBarStyle"
+        />
+
+
+    <Button
+        android:id="@+id/pagerTapButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="进入PagerTabStrip"
+        />
+
+    <Button
+        android:id="@+id/viewPagerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="进入常规ViewPager"
+        />
+
+
+</LinearLayout>

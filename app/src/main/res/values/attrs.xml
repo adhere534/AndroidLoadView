@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RatioLayout">
+        <attr name="ratio" format="float" />
+    </declare-styleable>
+
+
+
+
+    <declare-styleable name="TopBar">
+        <attr name="topTitle" format="string" />
+        <attr name="topTitleTextSize" format="integer" />
+        <attr name="topRightTextSize" format="integer" />
+        <attr name="topTitleTextColor" format="color" />
+        <attr name="topLeftSrc" format="reference" />
+        <attr name="topRightTextColor" format="color" />
+        <attr name="topRightSrc" format="reference" />
+        <attr name="topRightText" format="string" />
+    </declare-styleable>
+
+
+
+
+    <attr name="icon_normal"   format="reference"  />
+    <attr name="icon_down"    format="reference"  />
+    <attr name="color_normal"  format="color"     />
+    <attr name="text"           format="string"    />
+    <attr name="text_size"     format="dimension" />
+    <attr name="color_down" format="color" />
+
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="icon_normal" />
+        <attr name="icon_down" />
+        <attr name="color_down" />
+        <attr name="color_normal" />
+        <attr name="text" />
+        <attr name="text_size" />
+    </declare-styleable>
+
+
+
+    <declare-styleable name="superrecyclerview">
+        <attr name="recyclerClipToPadding" format="boolean" />
+        <attr name="recyclerPadding" format="dimension" />
+        <attr name="recyclerPaddingTop" format="dimension" />
+        <attr name="recyclerPaddingBottom" format="dimension" />
+        <attr name="recyclerPaddingLeft" format="dimension" />
+        <attr name="recyclerPaddingRight" format="dimension" />
+        <attr name="scrollbarStyle">
+            <enum name="insideOverlay" value="0x0" />
+            <enum name="insideInset" value="0x01000000" />
+            <enum name="outsideOverlay" value="0x02000000" />
+            <enum name="outsideInset" value="0x03000000" />
+        </attr>
+    </declare-styleable>
+</resources>

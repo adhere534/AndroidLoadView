@@ -1,0 +1,98 @@
+
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical" >
+
+
+    <com.adhere.view.CommTopBarLayout
+        android:id="@+id/topbarLayout"
+        android:layout_width="match_parent"
+        app:topLeftSrc="@mipmap/iv_return"
+        app:topTitle="数据"
+        android:background="@color/indicatorcolor"
+        style="@style/CommTopBarStyle"
+        />
+
+
+
+    <com.adhere.view.ForbidScroolViewPager
+        android:id="@+id/id_viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </com.adhere.view.ForbidScroolViewPager>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#D9D9D9">
+
+    </View>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <com.adhere.view.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_one"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            app:icon_normal="@mipmap/icon_home"
+            app:icon_down="@mipmap/icon_home_select"
+            app:color_down="#FF4ac3d9"
+            app:color_normal="#ff919191"
+            app:text="@string/tab_main"
+            app:text_size="14sp" />
+
+
+        <com.adhere.view.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_two"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            app:icon_normal="@mipmap/icon_near"
+            app:icon_down="@mipmap/icon_near_select"
+            app:color_down="#4ac3d9"
+            app:color_normal="#ff919191"
+            app:text="@string/tab_near"
+            app:text_size="14sp" />
+
+
+
+        <com.adhere.view.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_three"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            app:icon_normal="@mipmap/icon_discover"
+            app:icon_down="@mipmap/icon_discover_select"
+            app:color_down="#4ac3d9"
+            app:color_normal="#ff919191"
+            app:text="@string/tab_discover"
+            app:text_size="14sp" />
+
+
+        <com.adhere.view.ChangeColorIconWithTextView
+            android:id="@+id/id_indicator_four"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            app:icon_normal="@mipmap/icon_me"
+            app:icon_down="@mipmap/icon_me_select"
+            android:padding="3dp"
+            app:color_down="#4ac3d9"
+            app:color_normal="#ff919191"
+            app:text="@string/tab_me"
+            app:text_size="14sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

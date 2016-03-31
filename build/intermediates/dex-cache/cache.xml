@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.jude/rollviewpager/1.0.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f188cac1ecb12633b022cbea672a03ffcf83d3d">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-afe098b8393fec05a20cec47cb272db0c9b1ba8c.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/gson-2.2.4-41628468172f5db36660c5fc063d6247d3c4fee8.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/glide-3.7.0-17d63c90a144a89b8c53a55c5a4e6f1bbdc8038f.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-a8d5408ab062b507fb67e8f8c152474bb0ae82dd.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-41da3249f9f42ea891fe24c31e4bb1f922c57395.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-6e66b174ae35f75d3fa17bb65af40c7b2f38fa99.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0-33823577b89bf17bf1493d7aa9de41f83760d639.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/okio-1.6.0-986a00a53595142bc5cc8a872f75e15a14fc465c.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.3.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="577362cf9733c850c554a5dcb780ffd7ef25c0b7">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-98d4f86ee98b533a0bed9202172ec88f7def0779.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-52c95debd842ca1873f5bbf5816de41d2654375b.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-96fee2b1d55a578fe73144c6e47ec9c3496d43bd.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/classes-6b33675364cb88eef7ee0febb02f91af61f79119.jar" />
+    </item>
+    <item
+        jar="/Users/gaojun/develop/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/gaojun/develop/Android project/LoadView/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-e9389c6b83ca603dd121e0cb2c0a20e1a870560f.jar" />
+    </item>
+
+</items>
